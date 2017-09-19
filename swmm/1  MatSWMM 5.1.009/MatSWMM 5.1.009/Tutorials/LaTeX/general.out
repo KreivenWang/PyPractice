@@ -1,0 +1,10 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{How does SWMM work?}{}% 2
+\BOOKMARK [1][-]{section.3}{How does the Toolbox work?}{}% 3
+\BOOKMARK [1][-]{section.4}{Co-simulation functions and constants}{}% 4
+\BOOKMARK [1][-]{section.5}{Example running a single simulation}{}% 5
+\BOOKMARK [2][-]{section*.5}{The case study}{section.5}% 6
+\BOOKMARK [2][-]{section*.7}{The Python Toolbox - \(Check the source code here\)}{section.5}% 7
+\BOOKMARK [2][-]{section*.9}{The Matlab Toolbox - \(Check the source code here\)}{section.5}% 8
+\BOOKMARK [2][-]{section*.11}{The LabVIEW Toolbox}{section.5}% 9
+\BOOKMARK [1][-]{section.6}{Example running n simulations}{}% 10
